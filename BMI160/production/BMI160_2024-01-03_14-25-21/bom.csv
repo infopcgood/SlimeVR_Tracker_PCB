@@ -1,0 +1,9 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+BMI160-Module1,BMI160-Module,1,~,
+BT1,PinHeader_1x02_P2.54mm_Vertical,1,3.7V Li-ion,
+"D1, D2",D_DO-41_SOD81_P10.16mm_Horizontal,2,1N5817,
+J2,JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal,1,Auxiliary IMU,
+R1,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,1,180k,
+SW1,PinHeader_1x03_P2.54mm_Vertical,1,SW_SPDT,
+TP4056-Module1,TP4056-Module,1,~,
+U2,WEMOS_D1_mini_light,1,WeMos_D1_mini,
